@@ -37,8 +37,8 @@
 .darktheme {
     --accent: #dc8b6e;
     --bg: #3f383b;
-    --sbg: #8f7689;
-    --fg: #aabfcd;
+    --sbg: #50474a;
+    --fg: #ffffff;
     --imgcol: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7));
 }
 
