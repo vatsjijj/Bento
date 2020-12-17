@@ -35,9 +35,9 @@
 
 /* Dark theme  */
 .darktheme {
-    --accent: #B06139;
-    --bg: #2D2629;
-    --sbg: #393033;
+    --accent: #8DA6A0;
+    --bg: #263D32;
+    --sbg: #304D3F;
     --fg: #ffffff;
     --imgcol: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7));
 }
